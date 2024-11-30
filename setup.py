@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='datalib_ha',
-    version='0.1.0',
+    version='1.0.0',
     author='Ahmed Hamila',
     author_email='csahmed17@gmail.com',
     description='A comprehensive data analysis library for Python',
