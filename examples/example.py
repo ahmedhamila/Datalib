@@ -8,10 +8,10 @@ and advanced analysis modules.
 
 import pandas as pd
 import matplotlib.pyplot as plt
-from datalib.data_manipulation import DataManipulation
-from datalib.statistics import StatisticalAnalysis
-from datalib.visualization import DataVisualization
-from datalib.advanced_analysis import AdvancedAnalysis
+from datalib_ha.data_manipulation import DataManipulation
+from datalib_ha.statistics import StatisticalAnalysis
+from datalib_ha.visualization import DataVisualization
+from datalib_ha.advanced_analysis import AdvancedAnalysis
 
 def main():
     # 1. Data Manipulation

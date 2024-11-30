@@ -2,14 +2,14 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='datalib',
+    name='datalib_ha',
     version='0.1.0',
     author='Ahmed Hamila',
-    author_email='ahmed.hamila.work@gmail.com',
+    author_email='csahmed17@gmail.com',
     description='A comprehensive data analysis library for Python',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/ahmedhamila',
+    url='https://github.com/ahmedhamila/Datalib',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[

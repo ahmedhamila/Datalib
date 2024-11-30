@@ -1,7 +1,7 @@
 import pytest
 import pandas as pd
 import numpy as np
-from datalib.data_manipulation import DataManipulation
+from datalib_ha.data_manipulation import DataManipulation
 import os
 import tempfile
 

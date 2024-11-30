@@ -1,7 +1,7 @@
 import pytest
 import numpy as np
 import pandas as pd
-from datalib.statistics import StatisticalAnalysis
+from datalib_ha.statistics import StatisticalAnalysis
 
 class TestStatisticalAnalysis:
     @pytest.fixture

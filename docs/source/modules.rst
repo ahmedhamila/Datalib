@@ -4,4 +4,4 @@ src
 .. toctree::
    :maxdepth: 4
 
-   datalib
+   datalib_ha
