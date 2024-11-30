@@ -10,6 +10,10 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/ahmedhamila/Datalib',
+    project_urls={
+        "Documentation": "https://datalib-ha.readthedocs.io",
+        "Source Code": "https://github.com/ahmedhamila/datalib",
+    },
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[
